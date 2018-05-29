@@ -1,5 +1,7 @@
 # CSS Assignment
 
+This is a three-part assignment. Check the `starter-code` folder to get started on part I. Check the `solutions` folder to check your work.
+
 ## Part I - CSS Positioning
 
 In this exercise, you've got an HTML file with a few divs inside of the `body` tag. Your goal is to modify the CSS so that you can make the page look like each of the following screenshots.
