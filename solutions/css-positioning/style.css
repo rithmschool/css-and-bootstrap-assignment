@@ -1,3 +1,11 @@
+body {
+  margin: 0;
+  border: 5px solid black;
+  height: 100vh;
+  position: relative;
+  box-sizing: border-box;
+}
+
 .one {
   width: 400px;
   height: 400px;
@@ -88,8 +96,8 @@
 /*
 .two {
   position: fixed;
-  bottom: 0;
-  right: 0;
+  bottom: 5px;
+  right: 5px;
 }
 
 .three {
@@ -99,7 +107,7 @@
 
 .four {
   position: fixed;
-  top: 8px;
-  left: 8px;
+  top: 5px;
+  left: 5px;
 }
 */

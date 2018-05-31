@@ -1,3 +1,10 @@
+body {
+  margin: 0;
+  border: 5px solid black;
+  height: 100vh;
+  position: relative;
+}
+
 .one {
   width: 400px;
   height: 400px;
