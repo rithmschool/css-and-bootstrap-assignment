@@ -42,6 +42,8 @@ If you need a refresher on CSS Transitions (which will be helpful for the third 
 
 ![CSS Mock 6](images/css_mock6.gif)
 
+(Note: You don't need to implement the black circle that shows up on click! This is just how the Giphy app records clicks when you're making a GIF.)
+
 ### Mock 2
 
 ![CSS Mock 7](images/css_mock7.png)
