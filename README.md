@@ -10,6 +10,8 @@ You should ONLY be modifying the CSS in this exercise: don't change anything in 
 
 For a lot of these, there are many different ways to acheive the desired layout. Try to focus on using _positioning_, rather than other CSS concepts like margins, flexbox, or floats.
 
+Note: we've added some basic styles to the `body` tag, including a border, so that you can see where these elements should sit relative to the `body`.
+
 ### Exercise 1
 
 ![CSS Positioning Mock 1](images/css_mock1.png)
@@ -34,6 +36,8 @@ For a lot of these, there are many different ways to acheive the desired layout.
 
 In this exercise, your goal is to create the three design elements depicted below. You can choose your own images for the later mocks, but otherwise you should try to make the styling as close to what you see as possible. Most importantly, don't use any external CSS libraries, and no JavaScript! You should be writing all of the CSS you need yourself.
 
+If you need a refresher on CSS Transitions (which will be helpful for the third mock), check out our [online course](https://www.rithmschool.com/courses/intermediate-css-bootstrap/transitions).
+
 ### Mock 1
 
 ![CSS Mock 6](images/css_mock6.gif)
@@ -57,7 +61,7 @@ There are a number of sample layouts you can build with Bootstrap on the Bootstr
 
 Here are some guidelines:
 
-1.  **Avoid looking at the Elements tab.** If you don't know how to acheive some part of the layout, head to the Bootstrap documentation first. You should be able to find anything you need there. Only look to the Elements tab as a last resort.
-2.  **Minimize the amount of CSS you write.** One of the biggest upsides to using bootstrap is that it allows to concentrate on content, and worry less about styling issues. So for this exercise, try to write as little of your own CSS as possible. You may not be able to eliminate your own CSS entirely, but see how far you can get without writing a line of CSS.
+1.  **Avoid looking at the Elements tab.** If you don't know how to achieve some part of the layout, head to the Bootstrap documentation first. You should be able to find anything you need there. Only look to the Elements tab as a last resort.
+2.  **Minimize the amount of CSS you write.** One of the biggest upsides to using Bootstrap is that it allows to concentrate on content, and worry less about styling issues. So for this exercise, try to write as little of your own CSS as possible. **You'll probably still have to write some CSS**, but see how far you can get by researching what Bootstrap provides for you.
 3.  **Customize the look to suit your preferences!** You should take these designs as sources of inspiration, but feel free to play around with colors, margins, etc. Flexibility here will require you to take a look at the Bootstrap docs to understand how Bootstrap classes are actually working, and it'll allow you to build a layout that's a little more personal.
 4.  **If you finish one layout and have time, start another!**
